@@ -1,0 +1,1 @@
+CapsLock::Send,{vkF3sc029}
